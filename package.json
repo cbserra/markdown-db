@@ -15,6 +15,6 @@
     "json-server": "^0.17.0"
   },
   "resolutions": {
-    "gpt": "^11.8.5"
+    "got": "^11.8.5"
   }
 }
